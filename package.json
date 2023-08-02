@@ -1,0 +1,14 @@
+{
+  "name": "SnsToChatwork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AnhNQ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}

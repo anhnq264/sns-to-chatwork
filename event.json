@@ -1,0 +1,22 @@
+{
+    "Records": [
+        {
+            "EventSource": "aws:sns",
+            "EventVersion": "1.0",
+            "EventSubscriptionArn": "fake data",
+            "Sns": {
+                "Type": "Notification",
+                "MessageId": "fake data",
+                "TopicArn": "fake data",
+                "Subject": "ALARM",
+                "Message": "{}",
+                "Timestamp": "2023-08-02T16:00:26.011Z",
+                "SignatureVersion": "1",
+                "Signature": "fake data",
+                "SigningCertUrl": "fake data",
+                "UnsubscribeUrl": "fake data",
+                "MessageAttributes": {}
+            }
+        }
+    ]
+}
